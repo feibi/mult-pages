@@ -1,0 +1,16 @@
+/node_modules
+/test/js
+/examples/**/dist
+/coverage
+.DS_Store
+*.log
+.idea
+.vscode
+/dist
+/build
+npm-debug.log
+package-lock.json
+nohup.out
+yarn.lock
+yarn-error.log
+.npm-error.log
